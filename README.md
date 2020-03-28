@@ -1,2 +1,2 @@
 # AcappellaMC
-acappella MC homepage
+acappella MC homepage.
